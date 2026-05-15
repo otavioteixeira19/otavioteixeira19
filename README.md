@@ -1,8 +1,10 @@
-# 👨‍💻 Otávio Teixeira
+# 💻 Otávio Teixeira
 
 ## 🚀 Sobre mim
 
-Desenvolvedor Full-Stack.
+- 📊 Desenvolvedor Full-Stack.
+- 🎓 Estudante de [Analise e Desenvolvimento de Sistemas]
+- 💡 Adoro resolver problemas lógicos e transformar dados em insights visuais.
 
 ---
 
@@ -23,4 +25,11 @@ Desenvolvedor Full-Stack.
 
 # 📫 Contato
 
-[![Contato](https://skillicons.dev/icons?i=linkedin,gmail&perline=2)](https://www.linkedin.com/in/otavio-teixeira-36a034262/)
+<p>
+    <a href="https://www.linkedin.com/in/otavio-teixeira-36a034262/">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+    <a href="#">
+        <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>
+</p>
