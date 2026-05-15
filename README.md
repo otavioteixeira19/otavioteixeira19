@@ -8,7 +8,7 @@ Desenvolvedor Full-Stack.
 
 # ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,py,vscodigo,git,github&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,py,vscode,git,github&perline=3)](https://skillicons.dev)
 
 ---
 
