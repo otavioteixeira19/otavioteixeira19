@@ -10,11 +10,11 @@ Desenvolvedor Full-Stack.
 
 | Backend | Ferramentas | Frontend |
 |---|---|---|
-<div>
-<a> a href="https://skillicons.devO"
-    <img> src="https://skillicons.dev/icons?i=js,mysql,py" <img/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,mysql,py" />
   </a>
-</div>
+</p>
 
 ---
 
