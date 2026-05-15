@@ -8,13 +8,7 @@ Desenvolvedor Full-Stack.
 
 # ⚙️ Tech Stack
 
-| Backend | Ferramentas | Frontend |
-|---|---|---|
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,mysql,py" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,j.s,mysql,py,vscódigo,git,github&perline=3)](https://skillicons.dev)
 
 ---
 
@@ -25,9 +19,10 @@ Desenvolvedor Full-Stack.
 | [#](#) | ...
 | [#](#) | ...
 
+---
 
 # 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-teixeira-36a034262/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/otavio-teixeira-36a034262/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavio.teixeira1912@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail&perline=1)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwsLFLzHBjZdjxvMrDPsxPMNFqfwfMKqbzNjmWwcKlrJmttmWmLRHQhqQrSGxPfkZBTDnH)
